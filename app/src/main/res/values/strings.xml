@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Musik America</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_most">Most Played</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_genres">List Genres</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_artists">List Artists</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_playlist">My Playlist</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_search">Music Search</string>
+
+</resources>

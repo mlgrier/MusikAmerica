@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.mlgrier.musikamerica.MainActivity">
+
+    <TextView
+        android:id="@+id/most"
+        style="@style/musikStyle"
+        android:background="@color/category_most"
+        android:text="@string/category_most"/>
+
+    <TextView
+        android:id="@+id/genres"
+        style="@style/musikStyle"
+        android:background="@color/category_genres"
+        android:text="@string/category_genres"/>
+
+    <TextView
+        android:id="@+id/artists"
+        style="@style/musikStyle"
+        android:background="@color/category_artist"
+        android:text="@string/category_artists"/>
+
+    <TextView
+        android:id="@+id/playlist"
+        style="@style/musikStyle"
+        android:background="@color/category_playlist"
+        android:text="@string/category_playlist"/>
+
+    <TextView
+        android:id="@+id/search"
+        style="@style/musikStyle"
+        android:background="@color/category_search"
+        android:text="@string/category_search"/>
+
+</LinearLayout>
